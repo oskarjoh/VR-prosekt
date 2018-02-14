@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 773574df84d76f84f94e1827bb01cae0
+timeCreated: 1502972944
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: MDL_Screw10
+    100002: MDL_Screw11
+    100004: MDL_Screw12
+    100006: MDL_Screw13
+    100008: MDL_Screw16
+    100010: MDL_Screw16 1
+    100012: MDL_Screw17
+    100014: MDL_Screw17 1
+    100016: MDL_Screw18
+    100018: MDL_Screw18 1
+    100020: MDL_Screw18 2
+    100022: MDL_Screw18 3
+    100024: MDL_Screw19
+    100026: MDL_Screw19 1
+    100028: MDL_Screw19 2
+    100030: MDL_Screw19 3
+    100032: MDL_Screw2
+    100034: MDL_Screw3
+    100036: MDL_Screw4
+    100038: MDL_Screw5
+    100040: MDL_Table_Leg_Connector
+    100042: MDL_Table_Leg_Connector1
+    100044: MDL_Wall_End
+    100046: MDL_Wall_Mount
+    100048: MDL_Wall_Mount3
+    100050: pasted__MDL_Wall_Mount1
+    100052: pasted__MDL_Wall_Mount2
+    100054: //RootNode
+    400000: MDL_Screw10
+    400002: MDL_Screw11
+    400004: MDL_Screw12
+    400006: MDL_Screw13
+    400008: MDL_Screw16
+    400010: MDL_Screw16 1
+    400012: MDL_Screw17
+    400014: MDL_Screw17 1
+    400016: MDL_Screw18
+    400018: MDL_Screw18 1
+    400020: MDL_Screw18 2
+    400022: MDL_Screw18 3
+    400024: MDL_Screw19
+    400026: MDL_Screw19 1
+    400028: MDL_Screw19 2
+    400030: MDL_Screw19 3
+    400032: MDL_Screw2
+    400034: MDL_Screw3
+    400036: MDL_Screw4
+    400038: MDL_Screw5
+    400040: MDL_Table_Leg_Connector
+    400042: MDL_Table_Leg_Connector1
+    400044: MDL_Wall_End
+    400046: MDL_Wall_Mount
+    400048: MDL_Wall_Mount3
+    400050: pasted__MDL_Wall_Mount1
+    400052: pasted__MDL_Wall_Mount2
+    400054: //RootNode
+    2300000: MDL_Screw10
+    2300002: MDL_Screw11
+    2300004: MDL_Screw12
+    2300006: MDL_Screw13
+    2300008: MDL_Screw16
+    2300010: MDL_Screw16 1
+    2300012: MDL_Screw17
+    2300014: MDL_Screw17 1
+    2300016: MDL_Screw18
+    2300018: MDL_Screw18 1
+    2300020: MDL_Screw18 2
+    2300022: MDL_Screw18 3
+    2300024: MDL_Screw19
+    2300026: MDL_Screw19 1
+    2300028: MDL_Screw19 2
+    2300030: MDL_Screw19 3
+    2300032: MDL_Screw2
+    2300034: MDL_Screw3
+    2300036: MDL_Screw4
+    2300038: MDL_Screw5
+    2300040: MDL_Table_Leg_Connector
+    2300042: MDL_Table_Leg_Connector1
+    2300044: MDL_Wall_End
+    2300046: MDL_Wall_Mount
+    2300048: MDL_Wall_Mount3
+    2300050: pasted__MDL_Wall_Mount1
+    2300052: pasted__MDL_Wall_Mount2
+    2300054: //RootNode
+    3300000: MDL_Screw10
+    3300002: MDL_Screw11
+    3300004: MDL_Screw12
+    3300006: MDL_Screw13
+    3300008: MDL_Screw16
+    3300010: MDL_Screw16 1
+    3300012: MDL_Screw17
+    3300014: MDL_Screw17 1
+    3300016: MDL_Screw18
+    3300018: MDL_Screw18 1
+    3300020: MDL_Screw18 2
+    3300022: MDL_Screw18 3
+    3300024: MDL_Screw19
+    3300026: MDL_Screw19 1
+    3300028: MDL_Screw19 2
+    3300030: MDL_Screw19 3
+    3300032: MDL_Screw2
+    3300034: MDL_Screw3
+    3300036: MDL_Screw4
+    3300038: MDL_Screw5
+    3300040: MDL_Table_Leg_Connector
+    3300042: MDL_Table_Leg_Connector1
+    3300044: MDL_Wall_End
+    3300046: MDL_Wall_Mount
+    3300048: MDL_Wall_Mount3
+    3300050: pasted__MDL_Wall_Mount1
+    3300052: pasted__MDL_Wall_Mount2
+    3300054: //RootNode
+    4300000: MDL_Table
+    4300002: MDL_Wall_End
+    4300004: MDL_Wall_Mount
+    4300006: pasted__MDL_Wall_Mount2
+    4300008: MDL_Screw16
+    4300010: MDL_Screw17
+    4300012: MDL_Screw18
+    4300014: MDL_Screw19
+    4300016: MDL_Screw2
+    4300018: MDL_Screw3
+    4300020: MDL_Screw4
+    4300022: MDL_Screw5
+    4300024: MDL_Wall_Mount3
+    4300026: MDL_Screw10
+    4300028: MDL_Screw11
+    4300030: MDL_Screw12
+    4300032: MDL_Screw13
+    4300034: pasted__MDL_Wall_Mount1
+    4300036: MDL_Screw16
+    4300038: MDL_Screw17
+    4300040: MDL_Screw18
+    4300042: MDL_Screw19
+    4300044: MDL_Table_Leg_Connector
+    4300046: MDL_Screw19
+    4300048: MDL_Screw18
+    4300050: MDL_Table_Leg_Connector1
+    4300052: MDL_Screw19
+    4300054: MDL_Screw18
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

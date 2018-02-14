@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: acd295c54f63dc04e84ebafdf81502e6
+timeCreated: 1502868889
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AngleBracket
+    100002: AxelCover
+    100004: AxelScrew
+    100006: AxelScrew1
+    100008: CabelConnector
+    100010: CoverCube
+    100012: CoverCube2
+    100014: CoverCube3
+    100016: CoverCube4
+    100018: CoverCube5
+    100020: CoverCube6
+    100022: CoverCylinder
+    100024: CoverCylinder1
+    100026: CoverCylinder2
+    100028: CoverCylinder3
+    100030: CoverCylinder4
+    100032: CoverCylinder5
+    100034: Engine
+    100036: EngineFanCenter
+    100038: FanBlade
+    100040: FanBlade1
+    100042: FanBlade2
+    100044: FanBlade3
+    100046: FanBlade4
+    100048: FanBlade5
+    100050: FanCover
+    100052: HandleRoot
+    100054: MDL_SawBlade
+    100056: PowerButton
+    100058: PowerCableSaw
+    100060: PowerCableSawArm
+    100062: PowerConnector
+    100064: PowerConnector1
+    100066: //RootNode
+    100068: SawArm
+    100070: SawArmToSawBladeConnector
+    100072: SawAxel
+    100074: SawbladeRotator
+    100076: SawbladeRotator1
+    100078: SawCenter
+    100080: SawCover
+    100082: SawRoot
+    100084: SawScrew
+    100086: SawScrew1
+    100088: SawScrew2
+    100090: SawScrew3
+    100092: SawScrew4
+    100094: SawScrew5
+    100096: SawScrew6
+    100098: SawScrew7
+    100100: SawTableEntrance
+    100102: Screw
+    100104: Screw 1
+    100106: Screw 2
+    100108: Screw 3
+    100110: Screw 4
+    100112: Screw1
+    100114: Screw2
+    100116: Screw3
+    100118: Screw4
+    100120: Screw5
+    100122: Screw6
+    100124: Screw7
+    100126: ScrewCover
+    100128: ScrewCover 1
+    100130: HandleRoot1
+    400000: AngleBracket
+    400002: AxelCover
+    400004: AxelScrew
+    400006: AxelScrew1
+    400008: CabelConnector
+    400010: CoverCube
+    400012: CoverCube2
+    400014: CoverCube3
+    400016: CoverCube4
+    400018: CoverCube5
+    400020: CoverCube6
+    400022: CoverCylinder
+    400024: CoverCylinder1
+    400026: CoverCylinder2
+    400028: CoverCylinder3
+    400030: CoverCylinder4
+    400032: CoverCylinder5
+    400034: Engine
+    400036: EngineFanCenter
+    400038: FanBlade
+    400040: FanBlade1
+    400042: FanBlade2
+    400044: FanBlade3
+    400046: FanBlade4
+    400048: FanBlade5
+    400050: FanCover
+    400052: HandleRoot
+    400054: MDL_SawBlade
+    400056: PowerButton
+    400058: PowerCableSaw
+    400060: PowerCableSawArm
+    400062: PowerConnector
+    400064: PowerConnector1
+    400066: //RootNode
+    400068: SawArm
+    400070: SawArmToSawBladeConnector
+    400072: SawAxel
+    400074: SawbladeRotator
+    400076: SawbladeRotator1
+    400078: SawCenter
+    400080: SawCover
+    400082: SawRoot
+    400084: SawScrew
+    400086: SawScrew1
+    400088: SawScrew2
+    400090: SawScrew3
+    400092: SawScrew4
+    400094: SawScrew5
+    400096: SawScrew6
+    400098: SawScrew7
+    400100: SawTableEntrance
+    400102: Screw
+    400104: Screw 1
+    400106: Screw 2
+    400108: Screw 3
+    400110: Screw 4
+    400112: Screw1
+    400114: Screw2
+    400116: Screw3
+    400118: Screw4
+    400120: Screw5
+    400122: Screw6
+    400124: Screw7
+    400126: ScrewCover
+    400128: ScrewCover 1
+    400130: HandleRoot1
+    2300000: AngleBracket
+    2300002: AxelCover
+    2300004: AxelScrew
+    2300006: AxelScrew1
+    2300008: CabelConnector
+    2300010: CoverCube
+    2300012: CoverCube2
+    2300014: CoverCube3
+    2300016: CoverCube4
+    2300018: CoverCube5
+    2300020: CoverCube6
+    2300022: CoverCylinder
+    2300024: CoverCylinder1
+    2300026: CoverCylinder2
+    2300028: CoverCylinder3
+    2300030: CoverCylinder4
+    2300032: CoverCylinder5
+    2300034: Engine
+    2300036: EngineFanCenter
+    2300038: FanBlade
+    2300040: FanBlade1
+    2300042: FanBlade2
+    2300044: FanBlade3
+    2300046: FanBlade4
+    2300048: FanBlade5
+    2300050: FanCover
+    2300052: HandleRoot
+    2300054: MDL_SawBlade
+    2300056: PowerButton
+    2300058: PowerCableSaw
+    2300060: PowerCableSawArm
+    2300062: PowerConnector
+    2300064: PowerConnector1
+    2300066: //RootNode
+    2300068: SawArm
+    2300070: SawArmToSawBladeConnector
+    2300072: SawAxel
+    2300074: SawbladeRotator
+    2300076: SawbladeRotator1
+    2300078: SawCenter
+    2300080: SawCover
+    2300082: SawRoot
+    2300084: SawScrew
+    2300086: SawScrew1
+    2300088: SawScrew2
+    2300090: SawScrew3
+    2300092: SawScrew4
+    2300094: SawScrew5
+    2300096: SawScrew6
+    2300098: SawScrew7
+    2300100: SawTableEntrance
+    2300102: Screw
+    2300104: Screw 1
+    2300106: Screw 2
+    2300108: Screw 3
+    2300110: Screw 4
+    2300112: Screw1
+    2300114: Screw2
+    2300116: Screw3
+    2300118: Screw4
+    2300120: Screw5
+    2300122: Screw6
+    2300124: Screw7
+    2300126: ScrewCover
+    2300128: ScrewCover 1
+    2300130: HandleRoot1
+    3300000: AngleBracket
+    3300002: AxelCover
+    3300004: AxelScrew
+    3300006: AxelScrew1
+    3300008: CabelConnector
+    3300010: CoverCube
+    3300012: CoverCube2
+    3300014: CoverCube3
+    3300016: CoverCube4
+    3300018: CoverCube5
+    3300020: CoverCube6
+    3300022: CoverCylinder
+    3300024: CoverCylinder1
+    3300026: CoverCylinder2
+    3300028: CoverCylinder3
+    3300030: CoverCylinder4
+    3300032: CoverCylinder5
+    3300034: Engine
+    3300036: EngineFanCenter
+    3300038: FanBlade
+    3300040: FanBlade1
+    3300042: FanBlade2
+    3300044: FanBlade3
+    3300046: FanBlade4
+    3300048: FanBlade5
+    3300050: FanCover
+    3300052: HandleRoot
+    3300054: MDL_SawBlade
+    3300056: PowerButton
+    3300058: PowerCableSaw
+    3300060: PowerCableSawArm
+    3300062: PowerConnector
+    3300064: PowerConnector1
+    3300066: //RootNode
+    3300068: SawArm
+    3300070: SawArmToSawBladeConnector
+    3300072: SawAxel
+    3300074: SawbladeRotator
+    3300076: SawbladeRotator1
+    3300078: SawCenter
+    3300080: SawCover
+    3300082: SawRoot
+    3300084: SawScrew
+    3300086: SawScrew1
+    3300088: SawScrew2
+    3300090: SawScrew3
+    3300092: SawScrew4
+    3300094: SawScrew5
+    3300096: SawScrew6
+    3300098: SawScrew7
+    3300100: SawTableEntrance
+    3300102: Screw
+    3300104: Screw 1
+    3300106: Screw 2
+    3300108: Screw 3
+    3300110: Screw 4
+    3300112: Screw1
+    3300114: Screw2
+    3300116: Screw3
+    3300118: Screw4
+    3300120: Screw5
+    3300122: Screw6
+    3300124: Screw7
+    3300126: ScrewCover
+    3300128: ScrewCover 1
+    3300130: HandleRoot1
+    4300000: SawTable
+    4300002: SawTableEntrance
+    4300004: SawRoot
+    4300006: SawAxel
+    4300008: AxelScrew1
+    4300010: AxelScrew
+    4300012: AxelCover
+    4300014: SawArm
+    4300016: SawArmToSawBladeConnector
+    4300018: Screw
+    4300020: Screw7
+    4300022: HandleRoot
+    4300024: PowerButton
+    4300026: Screw
+    4300028: Screw1
+    4300030: Screw2
+    4300032: Screw3
+    4300034: MDL_SawBlade
+    4300036: SawCenter
+    4300038: SawScrew7
+    4300040: SawScrew6
+    4300042: SawScrew5
+    4300044: SawScrew4
+    4300046: SawScrew3
+    4300048: SawScrew2
+    4300050: SawScrew1
+    4300052: SawScrew
+    4300054: SawCover
+    4300056: SawbladeRotator
+    4300058: ScrewCover
+    4300060: Screw
+    4300062: SawbladeRotator1
+    4300064: ScrewCover
+    4300066: Screw
+    4300068: Engine
+    4300070: EngineFanCenter
+    4300072: FanBlade
+    4300074: FanBlade1
+    4300076: FanBlade2
+    4300078: FanBlade3
+    4300080: FanBlade4
+    4300082: FanBlade5
+    4300084: FanCover
+    4300086: CoverCube6
+    4300088: CoverCube5
+    4300090: CoverCube4
+    4300092: CoverCube3
+    4300094: CoverCube2
+    4300096: CoverCube
+    4300098: CoverCylinder5
+    4300100: CoverCylinder4
+    4300102: CoverCylinder3
+    4300104: CoverCylinder2
+    4300106: CoverCylinder1
+    4300108: CoverCylinder
+    4300110: PowerCableSaw
+    4300112: CabelConnector
+    4300114: PowerCableSawArm
+    4300116: PowerConnector
+    4300118: PowerConnector1
+    4300120: AngleBracket
+    4300122: Screw
+    4300124: Screw4
+    4300126: Screw5
+    4300128: Screw6
+    4300130: HandleRoot1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
